@@ -26,23 +26,24 @@ Rather than focusing only on completing problems, this repository tracks my prog
 ## 📂 Repository Structure
 
 ```text
-java-logic-building/
+Java_LogicBuilding/
 │
-├── Day-01/
-│   ├── Question01.java
-│   ├── Question02.java
-│   └── ...
+├── Phase-1: Warmup/
+├── Phase-2: Conditions/
+├── Phase-3: Loops on N/
+├── Phase-4: Working with the digits of a number/
+├── Phase-5: Number classification/
+├── Phase-6: Series & patterns/
+├── Phase-7: Strings/
+├── Phase-8: Arrays/
+├── Phase-9: Challenge round/
 │
-├── Day-02/
-│   ├── Question01.java
-│   └── ...
-│
-├── Day-03/
-│
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
-Each folder represents one day of practice and contains the Java solutions completed on that day.
+Each phase contains Java solutions for a specific set of logic-building problems. The repository is organized progressively, starting from basic concepts and advancing toward more challenging problem-solving exercises.
 
 ---
 
