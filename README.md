@@ -1,12 +1,12 @@
 # ☕ Java Logic Building
 
-### A day-wise collection of Java logic-building problems documenting my learning journey and progress.
+### A Phase-wise collection of Java logic-building problems documenting my learning journey and progress.
 
 ---
 
 ## 📖 About
 
-This repository contains my day-wise Java logic-building practice. The goal is to strengthen my programming fundamentals by solving problems consistently and writing clean, readable code.
+This repository contains my Phase-wise Java logic-building practice. The goal is to strengthen my programming fundamentals by solving problems consistently and writing clean, readable code.
 
 Rather than focusing only on completing problems, this repository tracks my progress, consistency, and improvement in logical thinking over time.
 
